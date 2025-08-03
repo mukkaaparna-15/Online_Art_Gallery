@@ -1,5 +1,4 @@
 # Online_Art_Gallery
-# Art Gallery Management System (AGMS)
 A comprehensive web-based Art Gallery Management System built with PHP, MySQL, and Bootstrap. This system provides a complete solution for managing art galleries, artists, art products, and customer inquiries.
 ## 🎨 Features
 
